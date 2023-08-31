@@ -1,0 +1,16 @@
+.App {
+  padding: 100px;
+}
+
+.App .jumbotron {
+  text-align: center;
+}
+
+.App .card {
+  margin-bottom: 10px;
+}
+
+.App .card-header {
+  color: white;
+  font-weight: bold;
+}
